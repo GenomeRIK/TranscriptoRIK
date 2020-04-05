@@ -1,0 +1,4 @@
+#This is a basic tutorial for getting started with TAMA Collapse
+
+TAMA Collapse is a tool used primarily to remove redundant transcript models from long read transcript sequencing read mapping files.
+
